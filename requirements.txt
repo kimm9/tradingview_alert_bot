@@ -1,0 +1,4 @@
+flask
+gunicorn
+ftx
+python-binance
